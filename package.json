@@ -1,0 +1,12 @@
+{
+  "name": "add-events-to-google-calendar",
+  "version": "1.1.0",
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajkale08/add-events-to-google-calendar.git"
+  },
+}
